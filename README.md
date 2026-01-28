@@ -1,4 +1,11 @@
 # LAMDA
+# Method
+<p align="center">
+  <b>Method of LAMDA</b>
+</p>
+<p align="center">
+  <img src="./method.pdf/" style="width:100%"/>
+</p>
 # Datasets
 * **CITYSCAPES**: Follow the instructions in [Cityscapes](https://www.cityscapes-dataset.com/)
   to download the images and semantic segmentation ground-truths. Please follow the dataset directory structure:

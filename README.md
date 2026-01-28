@@ -1,4 +1,4 @@
-# DHPM
+# LAMDA
 # Datasets
 * **CITYSCAPES**: Follow the instructions in [Cityscapes](https://www.cityscapes-dataset.com/)
   to download the images and semantic segmentation ground-truths. Please follow the dataset directory structure:

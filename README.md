@@ -42,7 +42,7 @@ python3 main.py \
 ```
 ## Feature optimization
 ```
-python3 PIN_aug.py \
+python3 DHPM.py \
 --dataset <source_dataset> \
 --data_root <path_to_source_dataset> \
 --total_it 100 \
